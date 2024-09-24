@@ -1,1 +1,16 @@
 https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/learn/lecture/9429374#questions/10348066
+
+#17. Theory Time Selectors
+Elements - h1{}
+classes - .blogpost{}
+universal - * {}
+ids - #main-title{}
+attributes - [disabled]{}
+
+#18. Understanding the Cascading Style and Specificity
+CSS Specificity
+Resolve conflicts arising from multiple Rules
+1. Inline Styles
+2. #ID selectors
+3. .class, :pseudo-class and [attribute] selectors
+4. <Tag> and ::pseudo-element selectors
