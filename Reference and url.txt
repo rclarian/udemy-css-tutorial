@@ -26,3 +26,11 @@ Resolve conflicts arising from multiple Rules
  - Second element is a direct child of first elements
 4. Descendant - div p { color: red;}
  - Second element is a descendant of the first element
+
+#22. Summarizing Properties & Selectors
+-Selectors	-Properties		-Values
+div		background-color	Red
+.blog-post	width			30%
+#main-title	color			#fa923f
+[disabled]	margin			10px
+*		display			block
