@@ -1,4 +1,4 @@
-https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/learn/lecture/9429374#questions/10348066
+Url: https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/learn/lecture/9429374#questions/10348066
 
 #17. Theory Time Selectors
 Elements - h1{}
@@ -14,3 +14,15 @@ Resolve conflicts arising from multiple Rules
 2. #ID selectors
 3. .class, :pseudo-class and [attribute] selectors
 4. <Tag> and ::pseudo-element selectors
+
+#21. Theory Time - Combinators
+1. Adjaceng Siblings - div + p { color: red;}
+ - Elements share the same parent
+ - Second elements comes immediately after first element
+2. General Siblings - div ~ p { color: red;}
+ - Elements share the same parent
+ - Second element comes after first elements
+3. Child - div > p { color: red;}
+ - Second element is a direct child of first elements
+4. Descendant - div p { color: red;}
+ - Second element is a descendant of the first element
