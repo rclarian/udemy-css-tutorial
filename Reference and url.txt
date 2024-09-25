@@ -34,3 +34,17 @@ div		background-color	Red
 #main-title	color			#fa923f
 [disabled]	margin			10px
 *		display			block
+
+#30. Theory Time - Working with shorthand Properties
+-Separate properties		-Shorthand property
+border-width: 20px;		border: 20px dashed orange;
+border-style: dashed | solid;
+border-color: orange;
+
+margin-top: 5px;		margin: 5px 10px 5px 10px; (format top, right, bottom, left)
+margin-right: 10px;		margin: 5px 10px; (format left & right)
+margin-bottom: 5px;		margin: 10px (same value both sides top, right, bottom, left)
+margin-left: 10px;
+
+
+
